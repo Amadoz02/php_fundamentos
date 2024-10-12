@@ -26,3 +26,9 @@ echo "hola\n";
 <br>
 <a href="01-basico/OPERADORES_LOGICOS.php">operadores LOGICOS</a>
 <br>
+<a href="01-basico/incre-decre.php">incremento decremento</a>
+<br>
+<a href="01-basico/condicionales.php">Condicionales</a>
+<br>
+<a href="ejercicios/ejer.php">ejercicio 1</a>
+<br>
